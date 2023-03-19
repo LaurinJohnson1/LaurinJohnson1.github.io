@@ -13,14 +13,14 @@ body
 .Assignments
 {
     background: rgb(96, 191, 205);
-   display: flex;
-   padding: 12px;
+    display: flex;
+    padding: 12px;
 }
 
 .Assignments img
 {
-width: 200px;
-padding: 10px;
-margin: 10px;
-background: lightgrey;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    background: lightgrey;
 }
