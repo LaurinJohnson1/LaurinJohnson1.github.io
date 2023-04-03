@@ -17,6 +17,13 @@ body
     padding: 12px;
 }
 
+.Assign Details
+{
+    background: rgb(96, 191, 205);
+    display: flex;
+    padding: 12px;
+}
+
 .Assignments img
 {
     width: 200px;
