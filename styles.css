@@ -10,20 +10,28 @@ body
     font-family: Arial, Helvetica, Sans-Serif;
 }
 
+.Assignment
+{
+   display: flex; 
+   flex-wrap: wrap;
+}
+
 .Assignments
 {
+    width: 25%;
     background: rgb(96, 191, 205);
-    display: flex;
     padding: 12px;
     padding: 10px;
 }
 
 .Assign Details
 {
+    width: 25%;
     background: rgb(96, 191, 205);
     display: flex;
     padding: 12px;
     padding: 10px;
+    padding: 20px 10px;
 }
 
 .Assignments img
@@ -31,6 +39,8 @@ body
     width: 200px;
     margin: 10px;
     border: 4px dashed lightgrey;
+    display: block;
+    margin: auto;
 }
 
 .Assignments img:hover
@@ -53,4 +63,9 @@ a
 a:hover
 {
     color:rgb(54, 15, 71)
+}
+
+h2
+{
+    text-align: center;
 }
